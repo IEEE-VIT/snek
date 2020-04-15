@@ -1,0 +1,13 @@
+html {
+    background: black;
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+}
+
+input {
+    color: white
+}
+
+canvas {
+    outline: white 3px solid;
+}
